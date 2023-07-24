@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="bookid" version="3.0" prefix="ibooks: http://vocabulary.itunes.apple.com/rdf/ibooks/vocabulary-extensions-1.0/">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <dc:title>Apple Style Guide</dc:title>
+        <dc:creator>Apple Inc.</dc:creator>
+        <dc:subject>Reference</dc:subject>
+        <dc:description>Editorial guidelines for Apple materials.</dc:description>
+        <dc:publisher>Apple Inc.</dc:publisher>
+        <dc:date>2022</dc:date>
+        <dc:rights>Copyright 2022 Apple Inc. All Rights Reserved</dc:rights>
+        <dc:identifier id="bookid">EN028-00636/2022-10</dc:identifier>
+        <dc:language>en</dc:language>
+        <meta name="framework" content="duck-15.4.0"></meta>
+        <meta name="buildid" content="633b2d1ec01e86069e2c0028"></meta>
+        <meta property="dcterms:modified">2022-10-03T11:44:33Z</meta>
+        <meta name="cover" content="cover"></meta>
+        <meta property="ibooks:specified-fonts">true</meta>
+    </metadata>
+    <manifest>
+        <item id="toc" properties="nav" href="toc.xhtml" media-type="application/xhtml+xml"></item>
+        <item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"></item>
+        <item id="cover" href="Art/ePubCover_ASG.png" media-type="image/png"></item>
+        <!--About this guide-->
+        <item id="apsg1eef9357" href="apsg1eef9357.xhtml" media-type="application/xhtml+xml"></item>
+        <!--Style and usage-->
+        <item id="apsg23450da3" href="apsg23450da3.xhtml" media-type="application/xhtml+xml"></item>
+        <!--Writing inclusively-->
+        <item id="apd1f6b084b4" href="apd1f6b084b4.xhtml" media-type="application/xhtml+xml"></item>
+        <!--Units of measure-->
+        <item id="apsg1fb1fc2b" href="apsg1fb1fc2b.xhtml" media-type="application/xhtml+xml"></item>
+        <!--Technical notation-->
+        <item id="apsg1fde7419" href="apsg1fde7419.xhtml" media-type="application/xhtml+xml"></item>
+        <!--International style-->
+        <item id="apsg1ff68827" href="apsg1ff68827.xhtml" media-type="application/xhtml+xml"></item>
+        <!--Copyright-->
+        <item id="apsg1eed284a" href="apsg1eed284a.xhtml" media-type="application/xhtml+xml"></item>
+        <item id="Art-IL_AppleLogo-png" href="Art/IL_AppleLogo.png" media-type="image/png"></item>
+        <item id="Art-IL_CommandIcon-png" href="Art/IL_CommandIcon.png" media-type="image/png"></item>
+        <item id="Art-IL_CommandKey-png" href="Art/IL_CommandKey.png" media-type="image/png"></item>
+        <item id="Art-IL_EllipsisCircle-png" href="Art/IL_EllipsisCircle.png" media-type="image/png"></item>
+        <item id="Art-IL_InputIconGerman-png" href="Art/IL_InputIconGerman.png" media-type="image/png"></item>
+        <item id="Art-IL_InputIconJapanese-png" href="Art/IL_InputIconJapanese.png" media-type="image/png"></item>
+        <item id="Art-IL_MoreBtn-png" href="Art/IL_MoreBtn.png" media-type="image/png"></item>
+        <item id="Art-IL_PictureInPicture-png" href="Art/IL_PictureInPicture.png" media-type="image/png"></item>
+        <item id="Art-IL_ShareBlue-png" href="Art/IL_ShareBlue.png" media-type="image/png"></item>
+        <item id="Art-IL_SmileyFace-png" href="Art/IL_SmileyFace.png" media-type="image/png"></item>
+        <item id="Art-IL_SmilingFaceWithSquintingEyes-png" href="Art/IL_SmilingFaceWithSquintingEyes.png" media-type="image/png"></item>
+        <item id="Art-IL_SmilingFaceWithSunglasses-png" href="Art/IL_SmilingFaceWithSunglasses.png" media-type="image/png"></item>
+        <item id="Art-IL_Speaker-png" href="Art/IL_Speaker.png" media-type="image/png"></item>
+        <item id="Art-IL_SpeakerPlaying-png" href="Art/IL_SpeakerPlaying.png" media-type="image/png"></item>
+        <item id="Art-IL_TV-png" href="Art/IL_TV.png" media-type="image/png"></item>
+        <item id="Art-L0001_OptComO-png" href="Art/L0001_OptComO.png" media-type="image/png"></item>
+        <item id="Art-L0003_SymbolExamples-png" href="Art/L0003_SymbolExamples.png" media-type="image/png"></item>
+        <item id="Art-L0004_CloudDownArrow-png" href="Art/L0004_CloudDownArrow.png" media-type="image/png"></item>
+        <item id="Art-P1000_Welcome-png" href="Art/P1000_Welcome.png" media-type="image/png"></item>
+        <item id="Art-S0001_ActionButton-png" href="Art/S0001_ActionButton.png" media-type="image/png"></item>
+        <item id="Art-S0002_Emoji-png" href="Art/S0002_Emoji.png" media-type="image/png"></item>
+        <item id="Art-S0003_Alert-png" href="Art/S0003_Alert.png" media-type="image/png"></item>
+        <item id="Art-S0004_Arrow-png" href="Art/S0004_Arrow.png" media-type="image/png"></item>
+        <item id="Art-S0006_Buttons-png" href="Art/S0006_Buttons.png" media-type="image/png"></item>
+        <item id="Art-S0007_Checkboxes-png" href="Art/S0007_Checkboxes.png" media-type="image/png"></item>
+        <item id="Art-S0008_Maximize-png" href="Art/S0008_Maximize.png" media-type="image/png"></item>
+        <item id="Art-S0009_CrossbarCursor-png" href="Art/S0009_CrossbarCursor.png" media-type="image/png"></item>
+        <item id="Art-S0010_Minimize-png" href="Art/S0010_Minimize.png" media-type="image/png"></item>
+        <item id="Art-S0011_EjectButton-png" href="Art/S0011_EjectButton.png" media-type="image/png"></item>
+        <item id="Art-S0012_HardDiskIcon-png" href="Art/S0012_HardDiskIcon.png" media-type="image/png"></item>
+        <item id="Art-S0013_SentenceList-png" href="Art/S0013_SentenceList.png" media-type="image/png"></item>
+        <item id="Art-S0013_TextCursor-png" href="Art/S0013_TextCursor.png" media-type="image/png"></item>
+        <item id="Art-S0014_SimpleList-png" href="Art/S0014_SimpleList.png" media-type="image/png"></item>
+        <item id="Art-S0015_ComplexList-png" href="Art/S0015_ComplexList.png" media-type="image/png"></item>
+        <item id="Art-S0016_macOSsheet-png" href="Art/S0016_macOSsheet.png" media-type="image/png"></item>
+        <item id="Art-S0017_iOSsheet-png" href="Art/S0017_iOSsheet.png" media-type="image/png"></item>
+        <item id="Art-S0018_BackButton-png" href="Art/S0018_BackButton.png" media-type="image/png"></item>
+        <item id="Art-S0019_ForwardButton-png" href="Art/S0019_ForwardButton.png" media-type="image/png"></item>
+        <item id="Art-S0020_LockButton-png" href="Art/S0020_LockButton.png" media-type="image/png"></item>
+        <item id="Art-S0022_PasswordField-png" href="Art/S0022_PasswordField.png" media-type="image/png"></item>
+        <item id="Art-S0023_ProgressBar-png" href="Art/S0023_ProgressBar.png" media-type="image/png"></item>
+        <item id="Art-S0025_RadioButtons-png" href="Art/S0025_RadioButtons.png" media-type="image/png"></item>
+        <item id="Art-S0030_DisclosureButton-png" href="Art/S0030_DisclosureButton.png" media-type="image/png"></item>
+        <item id="Art-S0031_DisclosureTriangle-png" href="Art/S0031_DisclosureTriangle.png" media-type="image/png"></item>
+        <item id="Art-S0032_UpDownArrowStepper-png" href="Art/S0032_UpDownArrowStepper.png" media-type="image/png"></item>
+        <item id="Art-S0034_RightArrowStepper-png" href="Art/S0034_RightArrowStepper.png" media-type="image/png"></item>
+        <item id="Art-S0035_LeftArrowStepper-png" href="Art/S0035_LeftArrowStepper.png" media-type="image/png"></item>
+        <item id="Art-S0036_IconViewButton-png" href="Art/S0036_IconViewButton.png" media-type="image/png"></item>
+        <item id="Art-S0037_ListViewButton-png" href="Art/S0037_ListViewButton.png" media-type="image/png"></item>
+        <item id="Art-S0038_ColViewButton-png" href="Art/S0038_ColViewButton.png" media-type="image/png"></item>
+        <item id="Art-S0043_CFViewButton-png" href="Art/S0043_CFViewButton.png" media-type="image/png"></item>
+        <item id="Art-S0044_PageSetupDialog-png" href="Art/S0044_PageSetupDialog.png" media-type="image/png"></item>
+        <item id="Art-S0045_BuyNowButton-png" href="Art/S0045_BuyNowButton.png" media-type="image/png"></item>
+        <item id="Art-S0047_Cursors-png" href="Art/S0047_Cursors.png" media-type="image/png"></item>
+        <item id="Art-S0050_Buttons3D-png" href="Art/S0050_Buttons3D.png" media-type="image/png"></item>
+        <item id="Art-S0051_CapitalizationLowercase-png" href="Art/S0051_CapitalizationLowercase.png" media-type="image/png"></item>
+        <item id="Art-S0054_ColorWell-png" href="Art/S0054_ColorWell.png" media-type="image/png"></item>
+        <item id="Art-S0057_HelpTag-png" href="Art/S0057_HelpTag.png" media-type="image/png"></item>
+        <item id="Art-S0059_iCloudTabs-png" href="Art/S0059_iCloudTabs.png" media-type="image/png"></item>
+        <item id="Art-S0060_Submenu-png" href="Art/S0060_Submenu.png" media-type="image/png"></item>
+        <item id="Art-S0061_EditMenuiOS-png" href="Art/S0061_EditMenuiOS.png" media-type="image/png"></item>
+        <item id="Art-S0062_Handle-png" href="Art/S0062_Handle.png" media-type="image/png"></item>
+        <item id="Art-S0063_GrabPoint-png" href="Art/S0063_GrabPoint.png" media-type="image/png"></item>
+        <item id="Art-S0067_Help-png" href="Art/S0067_Help.png" media-type="image/png"></item>
+        <item id="Art-S0068_TabExampleMusic-png" href="Art/S0068_TabExampleMusic.png" media-type="image/png"></item>
+        <item id="Art-S0069_TabExampleSafari-png" href="Art/S0069_TabExampleSafari.png" media-type="image/png"></item>
+        <item id="Art-S0070_TabExamplePages-png" href="Art/S0070_TabExamplePages.png" media-type="image/png"></item>
+        <item id="Art-S0072_UICValueSlider-png" href="Art/S0072_UICValueSlider.png" media-type="image/png"></item>
+        <item id="Art-S0073_Banner-png" href="Art/S0073_Banner.png" media-type="image/png"></item>
+        <item id="Art-S0074_PhotosBadge-png" href="Art/S0074_PhotosBadge.png" media-type="image/png"></item>
+        <item id="Art-S0075_MessagesBadge-png" href="Art/S0075_MessagesBadge.png" media-type="image/png"></item>
+        <item id="Art-S0076_MailBadge-png" href="Art/S0076_MailBadge.png" media-type="image/png"></item>
+        <item id="GlobalArt-IC_Chapter1-png" href="GlobalArt/IC_Chapter1.png" media-type="image/png"></item>
+        <item id="GlobalArt-IC_Chapter2-png" href="GlobalArt/IC_Chapter2.png" media-type="image/png"></item>
+        <item id="GlobalArt-IC_Chapter3-png" href="GlobalArt/IC_Chapter3.png" media-type="image/png"></item>
+        <item id="GlobalArt-IC_Chapter4-png" href="GlobalArt/IC_Chapter4.png" media-type="image/png"></item>
+        <item id="GlobalArt-IC_Chapter5-png" href="GlobalArt/IC_Chapter5.png" media-type="image/png"></item>
+        <item id="GlobalArt-IC_Chapter6-png" href="GlobalArt/IC_Chapter6.png" media-type="image/png"></item>
+        <item id="img-arrow-blue-svg" href="img/arrow-blue.svg" media-type="image/svg+xml"></item>
+        <item id="img-arrow-svg" href="img/arrow.svg" media-type="image/svg+xml"></item>
+        <item id="img-ask-siri-svg" href="img/ask-siri.svg" media-type="image/svg+xml"></item>
+        <item id="img-button-close-2-png" href="img/button-close-2.png" media-type="image/png"></item>
+        <item id="img-button-close-learnmore-png" href="img/button-close-learnmore.png" media-type="image/png"></item>
+        <item id="img-button-close-png" href="img/button-close.png" media-type="image/png"></item>
+        <item id="img-figcaption-external-link-dark-svg" href="img/figcaption-external-link-dark.svg" media-type="image/svg+xml"></item>
+        <item id="img-figcaption-external-link-png" href="img/figcaption-external-link.png" media-type="image/png"></item>
+        <item id="img-figcaption-external-link-svg" href="img/figcaption-external-link.svg" media-type="image/svg+xml"></item>
+        <item id="img-force-click-svg" href="img/force-click.svg" media-type="image/svg+xml"></item>
+        <item id="img-icon-arrow-2-svg" href="img/icon-arrow-2.svg" media-type="image/svg+xml"></item>
+        <item id="img-icon-close-svg" href="img/icon-close.svg" media-type="image/svg+xml"></item>
+        <item id="img-icon-external-link-lg-png" href="img/icon-external-link-lg.png" media-type="image/png"></item>
+        <item id="img-icon-external-link-png" href="img/icon-external-link.png" media-type="image/png"></item>
+        <item id="img-icon-figcaption-external-link-png" href="img/icon-figcaption-external-link.png" media-type="image/png"></item>
+        <item id="img-icon-warning-black-dark-png" href="img/icon-warning-black-dark.png" media-type="image/png"></item>
+        <item id="img-icon-warning-black-png" href="img/icon-warning-black.png" media-type="image/png"></item>
+        <item id="img-icon-warning-eu-png" href="img/icon-warning-eu.png" media-type="image/png"></item>
+        <item id="img-icon-warning-white-png" href="img/icon-warning-white.png" media-type="image/png"></item>
+        <item id="img-icon-warning-png" href="img/icon-warning.png" media-type="image/png"></item>
+        <item id="img-L0200_LeftArrow_2x-png" href="img/L0200_LeftArrow_2x.png" media-type="image/png"></item>
+        <item id="img-L0201_RightArrow_2x-png" href="img/L0201_RightArrow_2x.png" media-type="image/png"></item>
+        <item id="img-movie-play_2x-png" href="img/movie-play_2x.png" media-type="image/png"></item>
+        <item id="img-nav-left-svg" href="img/nav-left.svg" media-type="image/svg+xml"></item>
+        <item id="img-nav-right-svg" href="img/nav-right.svg" media-type="image/svg+xml"></item>
+        <item id="img-sprite-2x-png" href="img/sprite-2x.png" media-type="image/png"></item>
+        <item id="img-sprite-9cb7ab11-svg" href="img/sprite-9cb7ab11.svg" media-type="image/svg+xml"></item>
+        <item id="img-sprite-png" href="img/sprite.png" media-type="image/png"></item>
+        <item id="img-square-bullet-svg" href="img/square-bullet.svg" media-type="image/svg+xml"></item>
+        <item id="img-tip-svg" href="img/tip.svg" media-type="image/svg+xml"></item>
+        <item id="stylesheet-css" href="stylesheet.css" media-type="text/css"></item>
+    </manifest>
+    <spine toc="ncx" page-progression-direction="ltr">
+        <!--About this guide-->
+        <itemref idref="apsg1eef9357"></itemref>
+        <!--Style and usage-->
+        <itemref idref="apsg23450da3"></itemref>
+        <!--Writing inclusively-->
+        <itemref idref="apd1f6b084b4"></itemref>
+        <!--Units of measure-->
+        <itemref idref="apsg1fb1fc2b"></itemref>
+        <!--Technical notation-->
+        <itemref idref="apsg1fde7419"></itemref>
+        <!--International style-->
+        <itemref idref="apsg1ff68827"></itemref>
+        <!--Copyright-->
+        <itemref idref="apsg1eed284a"></itemref>
+    </spine>
+    <guide>
+        <reference type="text" title="About this guide" href="apsg1eef9357.xhtml"></reference>
+        <reference type="copyright-page" title="Copyright" href="apsg1eed284a.xhtml"></reference>
+    </guide>
+</package>
